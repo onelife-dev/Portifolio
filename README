@@ -1,0 +1,59 @@
+Meu Portfólio Pessoal 🌐
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minhas habilidades, experiência e projetos, e também para facilitar o contato com potenciais empregadores ou colaboradores. Além de que foi um Challenger solicitado pela
+alura.
+
+ÍNDICE
+
+Sobre o Projeto
+Funcionalidades
+Tecnologias Utilizadas
+Estrutura de Pastas
+Como Usar
+Contato
+Sobre o Projeto
+Este projeto é um site de portfólio pessoal, desenvolvido com HTML e CSS, visando demonstrar minhas competências na área de desenvolvimento Front-End. O design e a estrutura foram criados com foco em uma navegação simples e uma apresentação visual limpa e moderna.
+
+Funcionalidades
+Seção de Apresentação: breve descrição pessoal e imagem.
+Sobre Mim: um pouco mais sobre a minha trajetória e interesses.
+Habilidades: lista de competências técnicas e ferramentas com as quais tenho experiência.
+Hobbies: interesses e atividades extracurriculares.
+Formação: histórico educacional e certificados.
+Projetos: portfólio de projetos realizados com links para visualização.
+Contato: formulário de contato para mensagens diretas.
+Tecnologias Utilizadas
+HTML5: estrutura e semântica.
+CSS3: estilização e layout responsivo.
+JavaScript: lógica de interatividade e manipulação de DOM (opcional, se aplicável).
+Estrutura de Pastas
+plaintext
+Copiar código
+meu-portfolio/
+│
+├── index.html         # Arquivo principal do site
+├── style.css          # Estilos globais do site
+└── assets/            # Diretório com imagens, ícones e outros arquivos estáticos
+    ├── images/
+    └── icons/
+Como Usar
+Clone este repositório:
+
+bash
+Copiar código
+git clone https://github.com/seu-usuario/meu-portfolio.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd meu-portfolio
+Abra o arquivo index.html em um navegador para visualizar o portfólio localmente.
+
+Contato
+Caso queira entrar em contato comigo, você pode me encontrar em:
+
+LinkedIn: Seu LinkedIn
+E-mail: seuemail@exemplo.com
+
+Projeto desenvolvido com dedicação para compartilhar minhas habilidades e interesses na área de tecnologia! Até o momento foi o projeto que mais gostei de fazer. Senti que pude evoluir bem ao fazê-lo 😊
+
+Esse modelo de README é um bom ponto de partida, mas sinta-se à vontade para adaptá-lo conforme as necessidades e o crescimento do projeto.
